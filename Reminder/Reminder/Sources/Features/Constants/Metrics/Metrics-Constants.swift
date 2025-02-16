@@ -13,5 +13,5 @@ public struct Metrics {
     public static var medium: CGFloat = 24
     public static var small: CGFloat = 12
     public static var tiny: CGFloat = 8
-    public static var tittle: CGFloat = 4
+    public static var little: CGFloat = 4
 }
